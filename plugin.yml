@@ -1,0 +1,6 @@
+name: C-Hologram
+version: 1.0
+main: hologram.chlwhdtn.Hologram
+
+commands:
+  holo:
